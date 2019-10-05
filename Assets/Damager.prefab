@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2908018151903914695}
   - component: {fileID: 1360316755964182108}
   m_Layer: 0
-  m_Name: DamagerSpin
+  m_Name: Damager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -158,8 +158,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6ef5d0af1278204cab926cee032fe01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  circleForce: 15
+  circleForce: 0
   lifeTime: 5
+  followForce: 0
   randomForce: 0
   randomTimeMin: 0
   randomTimeMax: 0
