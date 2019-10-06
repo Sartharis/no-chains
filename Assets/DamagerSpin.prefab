@@ -160,6 +160,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   circleForce: 15
   lifeTime: 5
+  followForce: 0
   randomForce: 0
   randomTimeMin: 0
   randomTimeMax: 0
+  rotateVel: 1
